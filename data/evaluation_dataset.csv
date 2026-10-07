@@ -1,0 +1,137 @@
+text,intent,title,date,time,reminder_minutes,category,expected_valid,note
+Schedule my project presentation tomorrow at noon.,create_event,Project Presentation,2026-10-07,12:00,,Presentation,true,template
+Add my project presentation in 2 weeks at 5 in the evening.,create_event,Project Presentation,2026-10-20,17:00,,Presentation,true,template
+Add my dentist appointment at 8 in the morning today.,create_event,Dentist Appointment,2026-10-06,08:00,,Appointment,true,template
+Schedule my physics quiz next Friday at 5 in the evening. Alert me one day before and one hour before.,create_event,Physics Quiz,2026-10-09,17:00,1440;60,Exam,true,template
+Schedule my job interview at 3 PM on 25/12/2026. Alert me 15 minutes before.,create_event,Job Interview,2026-12-25,15:00,15,Interview,true,template
+I have a doctor's appointment next Monday at 14:00.,create_event,Doctor's Appointment,2026-10-12,14:00,,Appointment,true,template
+I have an AI assignment deadline at 7 PM today. Alert me 15 minutes before.,create_event,AI Assignment Deadline,2026-10-06,19:00,15,Deadline,true,template
+Remind me about my dentist appointment at 6:45 pm on 2026-11-02. Notify me 24 hours before.,create_event,Dentist Appointment,2026-11-02,18:45,1440,Appointment,true,template
+Book my AI assignment deadline at 5 in the evening today. Remind me 30 minutes before.,create_event,AI Assignment Deadline,2026-10-06,17:00,30,Deadline,true,template
+Remind me about my doctor's appointment in 3 days at 8 in the morning. Remind me two days before.,create_event,Doctor's Appointment,2026-10-09,08:00,2880,Appointment,true,template
+Schedule my meeting with John at noon on 25/12/2026.,create_event,Meeting with John,2026-12-25,12:00,,Meeting,true,template
+I have an AI assignment deadline next Monday at 6:45 pm. Remind me two days before.,create_event,AI Assignment Deadline,2026-10-12,18:45,2880,Deadline,true,template
+Book my doctor's appointment at noon next Friday. Remind me two days before.,create_event,Doctor's Appointment,2026-10-09,12:00,2880,Appointment,true,template
+Book my final year defense in 2 weeks at 14:00. Notify me 24 hours before.,create_event,Final Year Defense,2026-10-20,14:00,1440,Presentation,true,template
+Book my team call at noon on October 15. Remind me two days before.,create_event,Team Call,2026-10-15,12:00,2880,Meeting,true,template
+Remind me about my doctor's appointment at 3 PM on 25/12/2026.,create_event,Doctor's Appointment,2026-12-25,15:00,,Appointment,true,template
+Add my AI assignment deadline at 9:30 AM next Monday.,create_event,AI Assignment Deadline,2026-10-12,09:30,,Deadline,true,template
+Book my doctor's appointment next Friday at 6:45 pm. Alert me one day before and one hour before.,create_event,Doctor's Appointment,2026-10-09,18:45,1440;60,Appointment,true,template
+Add my job interview at 8 in the morning day after tomorrow. Remind me two days before.,create_event,Job Interview,2026-10-08,08:00,2880,Interview,true,template
+Schedule my final year defense at 10am on October 15. Remind me 30 minutes before.,create_event,Final Year Defense,2026-10-15,10:00,30,Presentation,true,template
+Remind me about my math exam at 6:45 pm on December 3rd.,create_event,Math Exam,2026-12-03,18:45,,Exam,true,template
+Book my math exam in 2 weeks at 14:00. Alert me 15 minutes before.,create_event,Math Exam,2026-10-20,14:00,15,Exam,true,template
+Set an alarm for my project presentation at 10am on October 15. Notify me 24 hours before.,create_event,Project Presentation,2026-10-15,10:00,1440,Presentation,true,template
+Add my physics quiz at 9:30 AM tomorrow. Remind me two days before.,create_event,Physics Quiz,2026-10-07,09:30,2880,Exam,true,template
+Schedule my doctor's appointment today at noon. Alert me one day before and one hour before.,create_event,Doctor's Appointment,2026-10-06,12:00,1440;60,Appointment,true,template
+Remind me about my job interview at 14:00 on December 3rd. Notify me 24 hours before.,create_event,Job Interview,2026-12-03,14:00,1440,Interview,true,template
+Schedule my job interview in 2 weeks at 5 in the evening. Notify me 24 hours before.,create_event,Job Interview,2026-10-20,17:00,1440,Interview,true,template
+Add my math exam on December 3rd at 5 in the evening.,create_event,Math Exam,2026-12-03,17:00,,Exam,true,template
+I have a dentist appointment today at 7 PM. Alert me 15 minutes before.,create_event,Dentist Appointment,2026-10-06,19:00,15,Appointment,true,template
+Book my meeting with John in 3 days at 9:30 AM.,create_event,Meeting with John,2026-10-09,09:30,,Meeting,true,template
+Schedule my project presentation on 25/12/2026 at 5 in the evening. Alert me 15 minutes before.,create_event,Project Presentation,2026-12-25,17:00,15,Presentation,true,template
+Add my team call at 14:00 on December 3rd. Remind me 30 minutes before.,create_event,Team Call,2026-12-03,14:00,30,Meeting,true,template
+Book my AI assignment deadline at 5 in the evening next Friday. Alert me 15 minutes before.,create_event,AI Assignment Deadline,2026-10-09,17:00,15,Deadline,true,template
+Add my job interview on October 15 at 7 PM. Alert me one day before and one hour before.,create_event,Job Interview,2026-10-15,19:00,1440;60,Interview,true,template
+Remind me about my meeting with John at 9:30 AM next Friday. Remind me 30 minutes before.,create_event,Meeting with John,2026-10-09,09:30,30,Meeting,true,template
+Remind me about my meeting with John at 8 in the morning in 3 days.,create_event,Meeting with John,2026-10-09,08:00,,Meeting,true,template
+I have a dentist appointment next Friday at 9:30 AM.,create_event,Dentist Appointment,2026-10-09,09:30,,Appointment,true,template
+Add my meeting with John next Monday at 6:45 pm.,create_event,Meeting with John,2026-10-12,18:45,,Meeting,true,template
+Set an alarm for my final year defense at 6:45 pm in 3 days.,create_event,Final Year Defense,2026-10-09,18:45,,Presentation,true,template
+Set an alarm for my meeting with John today at 9:30 AM. Remind me two days before.,create_event,Meeting with John,2026-10-06,09:30,2880,Meeting,true,template
+Book my AI assignment deadline at 3 PM on 20 November. Remind me two days before.,create_event,AI Assignment Deadline,2026-11-20,15:00,2880,Deadline,true,template
+I have a project presentation at 10am tomorrow. Remind me two days before.,create_event,Project Presentation,2026-10-07,10:00,2880,Presentation,true,template
+Add my project presentation next Friday at 8 in the morning.,create_event,Project Presentation,2026-10-09,08:00,,Presentation,true,template
+Schedule my AI assignment deadline at noon day after tomorrow. Alert me one day before and one hour before.,create_event,AI Assignment Deadline,2026-10-08,12:00,1440;60,Deadline,true,template
+Remind me about my project presentation at 5 in the evening on 20 November.,create_event,Project Presentation,2026-11-20,17:00,,Presentation,true,template
+Schedule my physics quiz tomorrow at 9:30 AM. Alert me 15 minutes before.,create_event,Physics Quiz,2026-10-07,09:30,15,Exam,true,template
+Set an alarm for my team call at 8 in the morning on 20 November. Alert me 15 minutes before.,create_event,Team Call,2026-11-20,08:00,15,Meeting,true,template
+I have a math exam at 3 PM on October 15. Alert me one day before and one hour before.,create_event,Math Exam,2026-10-15,15:00,1440;60,Exam,true,template
+Book my team call at 10am next Monday. Remind me two days before.,create_event,Team Call,2026-10-12,10:00,2880,Meeting,true,template
+Schedule my physics quiz in 2 weeks at 6:45 pm.,create_event,Physics Quiz,2026-10-20,18:45,,Exam,true,template
+Book my dentist appointment in 3 days at 5 in the evening.,create_event,Dentist Appointment,2026-10-09,17:00,,Appointment,true,template
+Add my dentist appointment in 3 days at 6:45 pm. Notify me 24 hours before.,create_event,Dentist Appointment,2026-10-09,18:45,1440,Appointment,true,template
+Add my physics quiz today at 14:00.,create_event,Physics Quiz,2026-10-06,14:00,,Exam,true,template
+Schedule my meeting with John at 9:30 AM on October 15. Notify me 24 hours before.,create_event,Meeting with John,2026-10-15,09:30,1440,Meeting,true,template
+Book my dentist appointment at 9:30 AM in 3 days. Alert me one day before and one hour before.,create_event,Dentist Appointment,2026-10-09,09:30,1440;60,Appointment,true,template
+Book my physics quiz at noon on Wednesday.,create_event,Physics Quiz,2026-10-07,12:00,,Exam,true,template
+Book my meeting with John at 10am next Monday.,create_event,Meeting with John,2026-10-12,10:00,,Meeting,true,template
+Set an alarm for my team call at 9:30 AM on Wednesday.,create_event,Team Call,2026-10-07,09:30,,Meeting,true,template
+Schedule my final year defense at 9:30 AM today. Notify me 24 hours before.,create_event,Final Year Defense,2026-10-06,09:30,1440,Presentation,true,template
+I have a math exam on Wednesday at 9:30 AM.,create_event,Math Exam,2026-10-07,09:30,,Exam,true,template
+Book my team call at noon on December 3rd. Notify me 24 hours before.,create_event,Team Call,2026-12-03,12:00,1440,Meeting,true,template
+I have a physics quiz next Monday at 9:30 AM.,create_event,Physics Quiz,2026-10-12,09:30,,Exam,true,template
+I have a project presentation on 2026-11-02 at 5 in the evening.,create_event,Project Presentation,2026-11-02,17:00,,Presentation,true,template
+Book my meeting with John at 7 PM on 2026-11-02.,create_event,Meeting with John,2026-11-02,19:00,,Meeting,true,template
+Remind me about my job interview on December 3rd at 6:45 pm. Remind me 30 minutes before.,create_event,Job Interview,2026-12-03,18:45,30,Interview,true,template
+I have an AI assignment deadline at 3 PM next Monday.,create_event,AI Assignment Deadline,2026-10-12,15:00,,Deadline,true,template
+Book my job interview day after tomorrow at 6:45 pm. Notify me 24 hours before.,create_event,Job Interview,2026-10-08,18:45,1440,Interview,true,template
+Schedule my dentist appointment at 9:30 AM today. Remind me two days before.,create_event,Dentist Appointment,2026-10-06,09:30,2880,Appointment,true,template
+Set an alarm for my doctor's appointment in 3 days at 5 in the evening.,create_event,Doctor's Appointment,2026-10-09,17:00,,Appointment,true,template
+Schedule my job interview at 3 PM on Wednesday. Remind me 30 minutes before.,create_event,Job Interview,2026-10-07,15:00,30,Interview,true,template
+Set an alarm for my project presentation at 5 in the evening on Wednesday. Alert me 15 minutes before.,create_event,Project Presentation,2026-10-07,17:00,15,Presentation,true,template
+Schedule my math exam at 14:00 next Friday. Alert me 15 minutes before.,create_event,Math Exam,2026-10-09,14:00,15,Exam,true,template
+Set an alarm for my dentist appointment at 7 PM day after tomorrow. Alert me 15 minutes before.,create_event,Dentist Appointment,2026-10-08,19:00,15,Appointment,true,template
+Book my meeting with John next Monday at 14:00. Alert me 15 minutes before.,create_event,Meeting with John,2026-10-12,14:00,15,Meeting,true,template
+Set an alarm for my dentist appointment on 20 November at 8 in the morning.,create_event,Dentist Appointment,2026-11-20,08:00,,Appointment,true,template
+Schedule my meeting with John next Friday at 3 PM. Remind me two days before.,create_event,Meeting with John,2026-10-09,15:00,2880,Meeting,true,template
+Book my job interview at noon today. Remind me 30 minutes before.,create_event,Job Interview,2026-10-06,12:00,30,Interview,true,template
+I have a physics quiz on Wednesday at 3 PM.,create_event,Physics Quiz,2026-10-07,15:00,,Exam,true,template
+Set an alarm for my job interview tomorrow at 9:30 AM. Notify me 24 hours before.,create_event,Job Interview,2026-10-07,09:30,1440,Interview,true,template
+Set an alarm for my doctor's appointment at 5 in the evening on October 15.,create_event,Doctor's Appointment,2026-10-15,17:00,,Appointment,true,template
+Set an alarm for my meeting with John next Monday at 3 PM. Remind me two days before.,create_event,Meeting with John,2026-10-12,15:00,2880,Meeting,true,template
+Set an alarm for my physics quiz in 2 weeks at 8 in the morning. Remind me 30 minutes before.,create_event,Physics Quiz,2026-10-20,08:00,30,Exam,true,template
+Remind me about my doctor's appointment at 7 PM in 3 days. Remind me two days before.,create_event,Doctor's Appointment,2026-10-09,19:00,2880,Appointment,true,template
+Set an alarm for my job interview on December 3rd at noon. Remind me two days before.,create_event,Job Interview,2026-12-03,12:00,2880,Interview,true,template
+Set an alarm for my job interview at 14:00 on December 3rd.,create_event,Job Interview,2026-12-03,14:00,,Interview,true,template
+Add my AI assignment deadline in 2 weeks at 14:00. Notify me 24 hours before.,create_event,AI Assignment Deadline,2026-10-20,14:00,1440,Deadline,true,template
+Schedule my physics quiz tomorrow at noon. Remind me 30 minutes before.,create_event,Physics Quiz,2026-10-07,12:00,30,Exam,true,template
+Set an alarm for my final year defense in 3 days at 7 PM. Alert me one day before and one hour before.,create_event,Final Year Defense,2026-10-09,19:00,1440;60,Presentation,true,template
+Book my meeting with John on December 3rd at 6:45 pm. Alert me 15 minutes before.,create_event,Meeting with John,2026-12-03,18:45,15,Meeting,true,template
+Book my project presentation at 5 in the evening next Monday. Remind me two days before.,create_event,Project Presentation,2026-10-12,17:00,2880,Presentation,true,template
+I have a project presentation on 25/12/2026 at 8 in the morning. Remind me two days before.,create_event,Project Presentation,2026-12-25,08:00,2880,Presentation,true,template
+Schedule my meeting with John at 3 PM day after tomorrow.,create_event,Meeting with John,2026-10-08,15:00,,Meeting,true,template
+Set an alarm for my final year defense at 9:30 AM on 25/12/2026. Alert me one day before and one hour before.,create_event,Final Year Defense,2026-12-25,09:30,1440;60,Presentation,true,template
+Set an alarm for my final year defense next Friday at 10am. Alert me one day before and one hour before.,create_event,Final Year Defense,2026-10-09,10:00,1440;60,Presentation,true,template
+Set an alarm for my dentist appointment on 25/12/2026 at 9:30 AM. Alert me 15 minutes before.,create_event,Dentist Appointment,2026-12-25,09:30,15,Appointment,true,template
+Schedule my physics quiz at 3 PM on 20 November. Notify me 24 hours before.,create_event,Physics Quiz,2026-11-20,15:00,1440,Exam,true,template
+Set an alarm for my project presentation at 14:00 on 20 November. Alert me 15 minutes before.,create_event,Project Presentation,2026-11-20,14:00,15,Presentation,true,template
+Set an alarm for my physics quiz at 7 PM in 3 days. Alert me 15 minutes before.,create_event,Physics Quiz,2026-10-09,19:00,15,Exam,true,template
+Schedule my physics quiz at 5 in the evening on October 15. Alert me one day before and one hour before.,create_event,Physics Quiz,2026-10-15,17:00,1440;60,Exam,true,template
+Schedule my team call at noon on 20 November. Alert me 15 minutes before.,create_event,Team Call,2026-11-20,12:00,15,Meeting,true,template
+Book my job interview on 25/12/2026 at 5 in the evening. Alert me one day before and one hour before.,create_event,Job Interview,2026-12-25,17:00,1440;60,Interview,true,template
+I have a team call today at noon.,create_event,Team Call,2026-10-06,12:00,,Meeting,true,template
+Schedule my physics quiz today at 14:00.,create_event,Physics Quiz,2026-10-06,14:00,,Exam,true,template
+Set an alarm for my math exam on 2026-11-02 at 8 in the morning.,create_event,Math Exam,2026-11-02,08:00,,Exam,true,template
+Schedule my physics quiz at 10am on 20 November.,create_event,Physics Quiz,2026-11-20,10:00,,Exam,true,template
+Add my AI assignment deadline on 25/12/2026 at 3 PM. Alert me 15 minutes before.,create_event,AI Assignment Deadline,2026-12-25,15:00,15,Deadline,true,template
+Set an alarm for my dentist appointment at noon on Wednesday. Alert me 15 minutes before.,create_event,Dentist Appointment,2026-10-07,12:00,15,Appointment,true,template
+Add my AI assignment deadline at 5 in the evening on December 3rd. Alert me 15 minutes before.,create_event,AI Assignment Deadline,2026-12-03,17:00,15,Deadline,true,template
+Set an alarm for my team call next Friday at noon. Alert me one day before and one hour before.,create_event,Team Call,2026-10-09,12:00,1440;60,Meeting,true,template
+Schedule my doctor's appointment at 10am in 2 weeks. Remind me two days before.,create_event,Doctor's Appointment,2026-10-20,10:00,2880,Appointment,true,template
+Set an alarm for my math exam at 5 in the evening in 3 days.,create_event,Math Exam,2026-10-09,17:00,,Exam,true,template
+Set an alarm for my dentist appointment today at 10am.,create_event,Dentist Appointment,2026-10-06,10:00,,Appointment,true,template
+Set an alarm for my job interview on October 15 at 7 PM.,create_event,Job Interview,2026-10-15,19:00,,Interview,true,template
+Remind me about my AI assignment deadline next Monday at 10am. Remind me 30 minutes before.,create_event,AI Assignment Deadline,2026-10-12,10:00,30,Deadline,true,template
+Book my physics quiz tomorrow at 7 PM.,create_event,Physics Quiz,2026-10-07,19:00,,Exam,true,template
+Meeting with John tomorrow at 3.,create_event,Meeting with John,2026-10-07,15:00,,Meeting,true,ambiguous time (no am/pm)
+Remind me about Sarah's birthday on December 20.,create_event,Sarah's Birthday,2026-12-20,,,Birthday,false,missing time
+Set an alarm for my interview on Friday at 8 in the morning.,create_event,Interview,2026-10-09,08:00,,Interview,true,brief example
+I have a doctor's appointment next Wednesday at 4 PM. Notify me 24 hours before.,create_event,Doctor's Appointment,2026-10-07,16:00,1440,Appointment,true,brief example
+Schedule my AI assignment presentation for next Monday at 9:30 AM.,create_event,AI Assignment Presentation,2026-10-12,09:30,,Presentation,true,brief example
+I have a dentist appointment on October 15 at 2 PM. Remind me two days before and one hour before.,create_event,Dentist Appointment,2026-10-15,14:00,2880;60,Appointment,true,brief example
+My AI project presentation is today at 3:00 PM. Remind me 5 minutes before.,create_event,AI Project Presentation,2026-10-06,15:00,5,Presentation,true,demo scenario
+Dentist appointment at 2 PM,create_event,Dentist Appointment,,14:00,,Appointment,false,missing date
+Team meeting tomorrow,create_event,Team Meeting,2026-10-07,,,Meeting,false,missing time
+Remind me to call mom tomorrow at 5 PM,create_event,Call Mom,2026-10-07,17:00,,Meeting,true,task phrasing
+Lunch with Sarah on 20 November at noon,create_event,Lunch with Sarah,2026-11-20,12:00,,Social,true,social
+Exam on 2020-01-05 at 3 PM,create_event,Exam,2020-01-05,15:00,,Exam,false,past date
+Meeting on February 30 at 3 PM,create_event,Meeting,,15:00,,Meeting,false,invalid date
+Interview on 2026-13-40 at 9 AM,create_event,Interview,,09:00,,Interview,false,invalid date
+Meeting today at 5 AM,create_event,Meeting,2026-10-06,05:00,,Meeting,false,earlier today (past)
+asdf qwerty,unknown,,,,,,false,gibberish
+What is the weather like,unknown,,,,,,false,off-topic
+hello there,unknown,,,,,,false,off-topic
+Delete my dentist appointment,delete_event,,,,,,false,other intent
+Reschedule my exam to Friday,edit_event,,,,,,false,other intent
+Show my events for tomorrow,view_events,,,,,,false,other intent
